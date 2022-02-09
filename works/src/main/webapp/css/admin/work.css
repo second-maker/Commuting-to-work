@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #707070;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+}
+
+h1 {
+    margin: 30px 0 50px 0;
+    font-size: 35px;
+}
+
+#item {
+    font-size: 40px;
+}
+
+form {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 60px 0 30px 0;
+}
+
+.edit-form {
+    padding: 25px 0 30px 0;
+}
+
+
+.select-form {
+    max-width: 900px;
+}
+
+input {
+    max-width: 300px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+textarea , select {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+
+
+.btn {
+    height: 50px;
+    padding: 0px 40px;
+    margin: 15px;
+}
+
+.cancel a {
+    color: rgb(95, 95, 95);
+    font-size: 20px;
+    display: block;
+    margin-bottom: 35px;
+}
+
+.cancel a:hover {
+    color: brown;
+}
+
+.cancel {
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.alert {
+	font-size: 15px;
+}
+
+.title-info p {
+    font-size: 30px;
+}
+
+.title-info2 {
+    padding-bottom: 20px;
+}
+
+.title-info2 p {
+    font-size: 20px;
+}
+
+.completion {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 30px 0;
+}
+
+.sample-link {
+    color: white;
+}
+
+.edit-box {
+    padding: 30px 0;
+}
+
+.edit-box p {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.edit-table {
+    max-width: 600px;
+    margin: 0 auto;
+}
